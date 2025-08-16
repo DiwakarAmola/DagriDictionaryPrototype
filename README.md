@@ -1,2 +1,2 @@
 # DagriDictionaryPrototype
-A Garhwal ti-English
+A Garhwali to English word-meaning Dictionary
